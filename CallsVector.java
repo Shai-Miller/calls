@@ -16,6 +16,7 @@ public class CallsVector {
     public Vector<call> getCalls () {
         return calls;
     }
+    
     public void addCall (call c) {
         this.calls.add(c);
     }
